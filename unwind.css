@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Varela Round", sans-serif;
+    font-style: normal;
+  }
+
+header {
+    height: 40vh;
+    width: 100vw;
+    background-image: url(Images/Unwind.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+header h2, p{
+    width: 200px;
+    padding-left: 50px;
+    word-spacing: 2px;
+}
+
+header img {
+    padding: 20px;
+}
+
+header button {
+    font-weight: bolder;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    height: 3em;
+    width: 10em;
+}
